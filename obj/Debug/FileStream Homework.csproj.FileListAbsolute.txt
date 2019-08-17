@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\bin\Debug\FileStream Homework.exe.config
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\bin\Debug\FileStream Homework.exe
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\bin\Debug\FileStream Homework.pdb
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\obj\Debug\FileStream Homework.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\obj\Debug\FileStream Homework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\obj\Debug\FileStream Homework.csproj.CopyComplete
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\obj\Debug\FileStream Homework.exe
+C:\Users\user\source\repos\FileStream Homework\FileStream Homework\obj\Debug\FileStream Homework.pdb
