@@ -14,10 +14,12 @@ namespace FileStream_Homework
         private string path;
         public ProductManager()
         {
-            path = @"C:\Users\user\Desktop\MyJson.Json";
+            path = @"C:\Users\HackerU\Desktop\MyJson.Json";
             LoadCollection();
-            //_collection = new List<Product>();
-
+            if (_collection == null)
+            {
+                _collection = new List<Product>();
+            }
         }
         //Private Methods
         private void LoadCollection()
